@@ -1,4 +1,3 @@
- 
 
 //Para este punto se debe de implementar el ejercicio uno del taller, luego, debes de 
 //adicionar una funcionalidad que permita guardar los números almacenados a otro 

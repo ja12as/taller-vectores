@@ -1,3 +1,4 @@
+
 //Crear una aplicación que permita guardar los datos de una factura de la siguiente 
 //manera: Crear 3 vectores con los siguientes datos La aplicación debe de imprimir el  
 //total a pagar de los productos comprados, para ello 
